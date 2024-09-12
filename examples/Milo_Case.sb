@@ -1,0 +1,3 @@
+let name = "Milo Baumhardt" in
+name[0..3] + " R. " + name[5..(length(name) - 1)]
+

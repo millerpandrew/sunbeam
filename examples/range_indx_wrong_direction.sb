@@ -1,0 +1,1 @@
+let s = "moving up" in s[3..1]

@@ -1,0 +1,8 @@
+let string = "Hello" in
+print(ischar(string[0]));
+print(ischar(string[0..0]));
+print(ischar('a'));
+print(ischar(string));
+print(ischar('1'));
+print(ischar(true));
+ischar([1, 2, 3])

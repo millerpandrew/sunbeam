@@ -1,0 +1,1 @@
+let string = "HELLO" in string[2] == string[2]

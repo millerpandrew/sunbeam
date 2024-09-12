@@ -1,0 +1,1 @@
+let s = "some" in s[length(s)] 

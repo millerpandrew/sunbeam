@@ -1,0 +1,4 @@
+let arr = ["how","much","wood","coulda"] in
+print(arr[3]);
+print(arr[2]);
+arr[3][length(arr[3] )- 1]

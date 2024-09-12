@@ -1,0 +1,11 @@
+def string_func(str, bool):
+	if(bool):
+		print(str + " true");
+                str
+	else:
+		let newstr = str + " false" in 
+		print(newstr);
+		str
+in
+print(string_func('i', true));
+string_func('i', false)

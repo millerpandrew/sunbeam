@@ -1,0 +1,1 @@
+let cosita = "THIS IS A STRING" in cosita[0..3] == cosita[0..3]

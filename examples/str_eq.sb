@@ -1,0 +1,7 @@
+let string_one = "ONE", string_one_b = "ONE", string_two = "TWO" in
+print(string_one == string_one_b);
+print(string_one == string_one);
+print(string_one == "ONE");
+print(string_one != string_two);
+print(string_two != string_two);
+string_one_b == string_one_b

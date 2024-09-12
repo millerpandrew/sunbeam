@@ -1,0 +1,9 @@
+let string = "Hello" in
+print(isstring(string));
+print(isstring(string[0..0]));
+print(isstring(string[0..length(string) - 1]));
+print(isstring(string[0]));
+print(isstring('a'));
+print(isstring(1));
+print(isstring(true));
+isstring([1, 2, 3])

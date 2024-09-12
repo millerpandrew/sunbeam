@@ -1,0 +1,13 @@
+def rec(input, char, len):
+    if(isstring(input) == false || ischar(char) == false):
+	"WRONG INPUTS IDIOT"
+    else:
+	if(length(input) < len):
+		rec(input + char, char, len)
+	else:
+		input
+in
+print(rec(1, 'c', 12));
+print(rec("String",2,2));
+print(rec(":", '3', 20));
+rec("D:", '<', 13)

@@ -1,0 +1,11 @@
+def loop_acc(x, i):
+    print("Currently on interation: ");
+	
+    if( i == x ):
+        x
+    else:
+        print(x);
+	loop_acc(x + 1, i)
+in
+print("Looping!...");
+loop_acc(0, 5)

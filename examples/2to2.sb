@@ -1,0 +1,1 @@
+let var = "I'm a variable :3" in var[2..2]

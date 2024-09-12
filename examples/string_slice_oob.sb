@@ -1,0 +1,1 @@
+let s = "sushi" in s[0..3][4]

@@ -1,0 +1,1 @@
+let str = "hello there" in str[6..length(str) - 1]
